@@ -53,25 +53,6 @@ The proportion of Black Americans in the total US population compared from 1800 
 
 ---
 
-## Repository Structure
-
-```
-Dubois_Challenge_2026/
-├── challenge01/
-├── challenge02/
-├── challenge03/
-├── challenge04/
-├── challenge05/
-├── challenge06/
-├── challenge07/
-├── challenge08/
-├── challenge09/
-├── challenge10/
-└── README.md
-```
-
----
-
 ## Resources
 
 - 📁 [Official Challenge Repository](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2026)
